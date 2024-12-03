@@ -10,7 +10,6 @@ Tutorial ini akan membantu Anda menganalisis alur komunikasi TCP pada sebuah sam
 2. **Buka File Capture**
    - Pilih menu **Open** di Wireshark dan cari file `http.cap` yang ingin dianalisis.
    - Klik **Open** untuk memuat file tersebut.
-     # Tugas 1 - Socket Programming
 
 Berikut adalah gambar yang menunjukkan alur komunikasi TCP pada socket programming:
 
