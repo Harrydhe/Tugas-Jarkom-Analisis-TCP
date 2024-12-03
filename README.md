@@ -1,4 +1,3 @@
-# Tugas2
 # Analisis TCP pada Sample Capture HTTP
 
 Tutorial ini akan membantu Anda menganalisis alur komunikasi TCP pada sebuah sample capture HTTP menggunakan **Wireshark**. Langkah-langkah berikut akan menunjukkan cara membuka file capture dan memvisualisasikan aliran data TCP.
