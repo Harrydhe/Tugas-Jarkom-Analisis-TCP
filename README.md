@@ -25,5 +25,4 @@ Berikut adalah gambar yang menunjukkan alur komunikasi TCP pada socket programmi
 
 Dengan langkah-langkah ini, Anda dapat dengan mudah memvisualisasikan alur komunikasi TCP yang terjadi selama proses HTTP menggunakan Wireshark. Grafik ini akan memberikan gambaran yang jelas tentang bagaimana paket TCP dikirimkan antara client dan server selama sesi HTTP.
 
-## Struktur Direktori
 
